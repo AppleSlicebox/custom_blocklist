@@ -18,3 +18,4 @@ ulogs.umengcloud.com
 aladdinsys.com
 baidu.com
 api.nuosike.com
+giga.de
