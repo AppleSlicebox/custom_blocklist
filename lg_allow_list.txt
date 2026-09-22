@@ -1,7 +1,7 @@
 #Custom allow
 
 ueiwsp.com
-#lgtvonline.lge.com
+lgtvonline.lge.com
 
 #Custom LG allow list base from: https://github.com/hagezi/dns-blocklists/discussions/8697
 
