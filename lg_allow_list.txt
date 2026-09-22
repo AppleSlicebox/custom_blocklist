@@ -1,11 +1,9 @@
-#Custom LG allow list base from: https://github.com/hagezi/dns-blocklists/discussions/8697
-
-#Custom Allowance
+#Custom allow
 
 ueiwsp.com
 #lgtvonline.lge.com
 
-#From Github Link
+#Custom LG allow list base from: https://github.com/hagezi/dns-blocklists/discussions/8697
 
 aic-gfts.nextlgsdp.com
 eic-gfts.nextlgsdp.com
