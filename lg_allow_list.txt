@@ -1,7 +1,7 @@
 #Custom LG allow list base from: https://github.com/hagezi/dns-blocklists/discussions/8697
 
 #Testing
-lgtvonline.lge.com
+#lgtvonline.lge.com
 ueiwsp.com
 
 #From Github Link
